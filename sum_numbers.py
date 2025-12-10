@@ -4,5 +4,13 @@ def sum_numbers(*args):
     If no arguments are passed, returns 0.
     """
     # TODO: implement the logic
-    # total = sum(args)
+    #total = sum(args)
+    return total
+def sum_numbers(*args):
+    """
+    Returns the sum of all input numbers.
+    If no arguments are passed, returns 0.
+    """
+    # TODO: implement the logic
+    total = sum(args)
     return total
